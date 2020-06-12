@@ -154,7 +154,7 @@ according to prototypical structures - lines, curves, contours
 """)
 
 
-review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="http://invibe.net/LaurentPerrinet/Publications/Perrinet15bicv">Biologically Inspired Computer Vision</a>')
+review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv">Biologically Inspired Computer Vision</a>')
 
 figpath = os.path.join(home, 'Desktop/2017-01_LACONEU/figures/')
 s.add_slide(content="""
@@ -256,7 +256,7 @@ than that -
 
 #Jens Kremkow, Laurent U Perrinet, Cyril Monier, Jose-Manuel Alonso, Ad Aertsen, Yves Fregnac, Guillaume S Masson. Push-pull receptive field organization and synaptic depression: Mechanisms for reliably encoding naturalistic stimuli in V1, URL URL2 URL3 . Frontiers in Neural Circuits, 2016
 
-jens_bib = s.content_bib("Kremkow, LP, Monier, Alonso, Aertsen, Fregnac, Masson", "2016", 'Push-pull receptive field organization and synaptic depression: Mechanisms for reliably encoding naturalistic stimuli in V1', url='http://invibe.net/LaurentPerrinet/Publications/Kremkow16')
+jens_bib = s.content_bib("Kremkow, LP, Monier, Alonso, Aertsen, Fregnac, Masson", "2016", 'Push-pull receptive field organization and synaptic depression: Mechanisms for reliably encoding naturalistic stimuli in V1', url='https://laurentperrinet.github.io/publication/kremkow-16/')
 jens_url = 'https://www.frontiersin.org/files/Articles/190318/fncir-10-00037-HTML/image_m/'
 jens_url = 'figures/'
 for l in ['a', 'b', '']:
